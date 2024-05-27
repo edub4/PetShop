@@ -115,3 +115,24 @@ iframe{
 
 }
 
+hr{
+    border-top: #91e467 solid 1px;
+}
+
+footer img{
+    padding-right: 5px;
+}
+footer{
+    text-align: center;
+    padding-bottom: 25px;
+    margin: 10px;
+}
+footer li,a{
+    display: inline;
+    color: #6dd432;
+    text-decoration: none;
+}
+footer a{
+    padding-right: 5px;
+    margin-right: 5px;
+}
